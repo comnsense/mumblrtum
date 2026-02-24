@@ -84,4 +84,7 @@ Full Tumblr language support
 Tumblr's native iframe controls integrated
 
 
+Support
+For questions or issues, visit the GitHub repository or contact @comnsense on Tumblr.
+
 
